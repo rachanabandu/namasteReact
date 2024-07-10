@@ -1,0 +1,31 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "React by Rachana",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "build": "uninstall .parcel-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachanabandu/namasteReact.git"
+  },
+  "author": "Rachana Bandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachanabandu/namasteReact/issues"
+  },
+  "homepage": "https://github.com/rachanabandu/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "Last 2 versions"
+  ]
+}
